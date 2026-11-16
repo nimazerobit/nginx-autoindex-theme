@@ -2,6 +2,16 @@
 
 A lightweight theme for Nginx directory listings. It replaces the default raw autoindex output with a cleaner UI that supports search, sorting, dark mode, and quick download-link copying.
 
+<p align="center">
+  <a href="https://nimazerobit.github.io/nginx-autoindex-theme/">
+    <img width="100%" alt="demo screenshot" src="https://github.com/user-attachments/assets/8896fd1c-4575-4ecd-8f5f-cc47f2d5432b" />
+  </a>
+</p>
+
+<p align="center">
+  <strong><a href="https://nimazerobit.github.io/nginx-autoindex-theme/">Live Demo</a></strong>
+</p>
+
 > [!IMPORTANT]
 > This project is designed for Nginx's built-in `autoindex` feature. It does not replace Nginx itself; it enhances the generated listing with custom HTML/CSS/JS assets.
 
